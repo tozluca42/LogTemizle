@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F1117</color>
+    <color name="surface">#1A1D29</color>
+    <color name="surface_alt">#242838</color>
+    <color name="accent">#FFC24B</color>
+    <color name="accent_dark">#E0A830</color>
+    <color name="violet">#8C6BFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9BA0B4</color>
+    <color name="success">#3DDC84</color>
+    <color name="success_bg">#1F3D2C</color>
+    <color name="danger">#FF5C6C</color>
+    <color name="danger_bg">#3D1F24</color>
+    <color name="divider">#262A38</color>
+</resources>
